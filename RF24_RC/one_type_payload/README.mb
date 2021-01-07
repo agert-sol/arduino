@@ -1,0 +1,6 @@
+This project aim was to control old RC-toy car via WiFi (arduino and nrf2401). The old controller was missed and receiver in car look like broken.
+Also I use one data type in comunication with receiver.
+Next version will send control data only when they change.
+
+This is single file project for both server and client arduino.
+I use Arduino NANO 328P for both sides.
